@@ -1,0 +1,13 @@
+[palettes.version14-light]
+bg = "#F4F5F6"
+bg_elevated = "#EBEDEF"
+fg = "#0D0F11"
+fg_muted = "#636870"
+accent = "#5F3BBB"
+red = "#B91A25"
+green = "#166534"
+yellow = "#8F4400"
+blue = "#0054CB"
+magenta = "#8C2293"
+cyan = "#5F3BBB"
+border = "#D2D4D7"
